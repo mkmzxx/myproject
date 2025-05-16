@@ -1,0 +1,6 @@
+selenium>=4.0.0
+fake-useragent>=1.5.1
+webdriver-manager
+requests
+requests[socks]
+
